@@ -1,0 +1,5 @@
+## docker-compose.yml buscar el apartado postgres y validar el puerto 
+# dijirse en Airflow al apartado Admin/Connections/ editar conexion o crear una id_conexion: postgres_localhost; type: Postgres; host: host.docker.internal; Schema: db_test; login: airflow; password: 123456; Port: 64646 
+
+
+
